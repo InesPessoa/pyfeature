@@ -1,2 +1,2 @@
 # pyfeature
-python package with useful modules to use in machine learning pipelines
+Python package with useful modules to use in (Scikit learn pipelines)[https://scikit-learn.org/stable/modules/compose.html]. 
